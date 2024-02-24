@@ -6,26 +6,26 @@ import Image from "next/image"
 const VisualFeatures = () => {
 
     const features = [
-        {
-            title: "Send thousands of emails",
-            desc: "Send thousands of emails quickly and easily. You can customize the content of each email",
-            img: Feature1
-        },
-        {
-            title: "Write your email content using AI",
-            desc: "AI-powered email content writing is the perfect solution for busy professionals who need to quickly create engaging emails.",
-            img: Feature2
-        },
+        // {
+        //     title: "Send thousands of emails",
+        //     desc: "Send thousands of emails quickly and easily. You can customize the content of each email",
+        //     img: Feature1
+        // },
+        // {
+        //     title: "Write your email content using AI",
+        //     desc: "AI-powered email content writing is the perfect solution for busy professionals who need to quickly create engaging emails.",
+        //     img: Feature2
+        // },
     ]
     return (
-        <SectionWrapper>
+        <SectionWrapper id="visualfeatures">
             <div className="custom-screen text-gray-300">
                 <div className="max-w-xl mx-auto text-center">
                     <h2 className="text-gray-50 text-3xl font-semibold sm:text-4xl">
-                        Take your email marketing to the next level with Mailgo
+                        Take your video making experience to the next level with NarrativeVision
                     </h2>
                     <p className="mt-3">
-                        With Mailgo's powerful features, you can easily create and send beautiful emails that will engage your customers and drive more sales.
+                    Unlock the full potential of your storytelling with NarrativeVision's powerful features and elevate your content game and leave a lasting impression on your audience -the ultimate tool for video creators!
                     </p>
                 </div>
                 <div className="mt-12">

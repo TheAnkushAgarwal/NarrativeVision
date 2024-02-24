@@ -20,14 +20,14 @@ const Hero = () => (
                                 backgroundImage: "linear-gradient(179.1deg, #FFFFFF 0.77%, rgba(255, 255, 255, 0) 182.09%)"
                             }}
                         >
-                            Manage your email marketing using AI
+                            An AI tool for generating videos from text
                         </h1>
                         <p className="max-w-xl mx-auto text-gray-300">
-                            Gain control of your business's growth with Mailgo's comprehensive marketing, automation, and email marketing platform.
+                            Make seamless and captivating videos with NarrativeVision comprehensive  automation platform.
                         </p>
                         <div className="flex justify-center font-medium text-sm">
                             <NavLink
-                                href="/#pricing"
+                                href="https://narrativevision-generator.streamlit.app/"
                                 className="flex items-center text-white bg-purple-600 hover:bg-purple-500 active:bg-purple-700 "
                             >
                                 Get Started
