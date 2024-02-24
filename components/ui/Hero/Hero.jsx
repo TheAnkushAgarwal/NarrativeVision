@@ -1,7 +1,7 @@
 import GradientWrapper from "@/components/GradientWrapper"
 import Image from "next/image"
 import NavLink from "../NavLink"
-import HeroImg from "@/public/images/hero.svg"
+import HeroImg from "@/public/images/hero.png"
 import LayoutEffect from "@/components/LayoutEffect"
 
 const Hero = () => (
@@ -41,7 +41,7 @@ const Hero = () => (
                         <Image
                             src={HeroImg}
                             className="shadow-lg rounded-2xl"
-                            alt="Mailgo"
+                            alt="NarrativeVision"
                         />
                     </GradientWrapper>
                 </div>
