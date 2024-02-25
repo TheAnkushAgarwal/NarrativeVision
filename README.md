@@ -4,6 +4,12 @@
 <img width="1710" alt="Screenshot 2024-02-25 at 11 04 53 AM" src="https://github.com/TheAnkushAgarwal/NarrativeVision/assets/96491776/61700a58-6c9f-4ab7-8d51-c8928b14a85a">
 
 
+# Tech Stack
+1) NextJs
+2) Tailwind CSS
+3) Vercel
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
