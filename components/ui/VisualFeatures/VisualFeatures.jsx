@@ -22,10 +22,10 @@ const VisualFeatures = () => {
             <div className="custom-screen text-gray-300">
                 <div className="max-w-xl mx-auto text-center">
                     <h2 className="text-gray-50 text-3xl font-semibold sm:text-4xl">
-                        Take your video making experience to the next level with NarrativeVision
+                        95% reduction in time
                     </h2>
                     <p className="mt-3">
-                    Unlock the full potential of your storytelling with NarrativeVision's powerful features and elevate your content game and leave a lasting impression on your audience -the ultimate tool for video creators!
+                    Compared to traditional methods, using NarrativeVision we can significantly cut down the time required to create videos, making the overall production process much faster and more time-effective.
                     </p>
                 </div>
                 <div className="mt-12">

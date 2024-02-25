@@ -12,7 +12,7 @@ const Navbar = () => {
         { name: "Features", href: "/#features" },
         // { name: "Pricing", href: "/#pricing" },
         // { name: "Testimonials", href: "/#testimonials" },
-        { name: "Generated videos", href: "" },
+        // { name: "Generated videos", href: "" },
         { name: "FAQs", href: "/#faqs" },
     ]
 
