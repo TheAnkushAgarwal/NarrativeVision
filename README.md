@@ -1,7 +1,8 @@
 # NarrativeVision
  An AI tool for generating video from text. This is the landing page repo for NarrativeVision .
 
-![Uploading Screenshot 2024-02-25 at 11.03.34 AM.png…]()
+<img width="1656" alt="Screenshot 2024-02-25 at 7 59 43 AM" src="https://github.com/TheAnkushAgarwal/NarrativeVision/assets/96491776/1a5187ab-46d7-402d-aa0e-c5ba3aa5d356">
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
