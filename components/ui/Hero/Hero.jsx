@@ -27,7 +27,7 @@ const Hero = () => (
                         </p>
                         <div className="flex justify-center font-medium text-sm">
                             <NavLink
-                                href="https://narrativevision-generator.streamlit.app/"
+                                href="https://ai-reels-generator.streamlit.app/"
                                 className="flex items-center text-white bg-purple-600 hover:bg-purple-500 active:bg-purple-700 "
                             >
                                 Get Started
