@@ -73,7 +73,7 @@ const Footer= () => {
                     &copy; 2024 NarrativeVision All rights reserved.
                 </div>
                 <div className="mt-6 sm:mt-0">
-                    Made with ❤️ By Sudhanshu Singh and Ankush Agarwal
+                    Made with ❤️ By Ankush Agarwal
                     {/* <ul className="flex items-center space-x-4">
                         <li className="w-10 h-10 border rounded-full flex items-center justify-center">
                             <a href="">
